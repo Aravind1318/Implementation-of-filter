@@ -1,4 +1,4 @@
-<img width="584" height="467" alt="image" src="https://github.com/user-attachments/assets/58c00f7a-efc4-4065-9456-c1e93f6dc631" /># Implementation-of-filter
+# Implementation-of-filter
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
@@ -194,13 +194,15 @@ iv) Using Median Filter
 i) Using Laplacian Kernal
 
 </br>
-<img width="584" height="467" alt="image" src="https://github.com/user-attachments/assets/f32e6b8b-b4c7-4404-a3b9-54310c28a1f3" />
+
+
 
 </br>
 
 ii) Using Laplacian Operator
 </br>
-<img width="558" height="458" alt="image" src="https://github.com/user-attachments/assets/4d0c7ea7-e4dd-474f-a729-b195ec580bf6" />
+
+
 
 </br>
 </br>
